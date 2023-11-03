@@ -36,7 +36,7 @@ setup(
         'nosetimer',
     ],
     install_requires=[
-        'nose-py3',
+        'pynose',
     ],
     license='MIT',
     entry_points={
